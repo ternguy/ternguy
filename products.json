@@ -1,0 +1,144 @@
+{
+    "items": [
+        {
+            "sys": { "id": "1" },
+            "fields": {
+                "title": "dining table",
+                "price": 67.72,
+                "image": { "fields": { "file": { 
+                "url": "./images/image3.jpg" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "title": "sideboard shoe cabinet",
+                "price": 25.17,
+                "image": { "fields": { "file": { 
+                "url": "./images/pix3.jpg" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "3" },
+            "fields": {
+                "title": "Kitching cabinet",
+                "price": 17.89,
+                "image": { "fields": { 
+                "file": { "url": "./images/funitures1.webp" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "4" },
+            "fields": {
+                "title": "sitting table",
+                "price": 72.03,
+                "image": { "fields": { "file": { 
+                "url": "./images/product6.webp" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "title": "outdoor furnitures",
+                "price": 87.53,
+                "image": { "fields": { "file": { "url": "./images/high.webp" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "6" },
+            "fields": {
+                "title": "conference table",
+                "price": 98.21,
+                "image": { "fields": { "file": { "url": "./images/conference.webp" } }
+            }
+        }
+    },
+        {
+            "sys": { "id": "7" },
+            "fields": {
+                "title": "home lazy sofa chair",
+                "price": 17.89,
+                "image": { "fields": { "file": { "url": "./images/home.webp" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "8" },
+            "fields": {
+                "title": "office shelve",
+                "price":88.75,
+                "image": { "fields": { "file": { "url": "./images/product10.webp" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "9" },
+            "fields": {
+                "title": "office cabinet",
+                "price": 69.88,
+                "image": { "fields": { "file": { "url": "./images/product9.webp" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "10" },
+            "fields": {
+                "title": "office shelve",
+                "price": 107.08,
+                "image": { "fields": { "file": { "url": "./images/image13.jpg" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "11" },
+            "fields": {
+                "title": "office shelve",
+                "price": 77.80,
+                "image": { "fields": { "file": { "url": "./images/image77.jpg" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "12" },
+            "fields": {
+                "title": "office shelve",
+                "price": 13.78,
+                "image": { "fields": { "file": { "url": "./images/image24.jpg" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "13" },
+            "fields": {
+                "title": "Royal chair",
+                "price": 50.70,
+                "image": { "fields": { "file": { "url": "./images/royal.jpg" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "14" },
+            "fields": {
+                "title": "upholstery chair",
+                "price": 60.80,
+                "image": { "fields": { "file": { "url": "./images/o.jpg" } }
+            }
+            }
+        },
+        {
+            "sys": { "id": "15" },
+            "fields": {
+                "title": "upholstery chair",
+                "price": 61.20,
+                "image": { "fields": { "file": { "url": "./images/image120.jpg" } }
+            }
+            }
+        }
+        
+    ]
+}
